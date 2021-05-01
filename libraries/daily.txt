@@ -1,0 +1,2 @@
+https://leojonathanoh.github.io/typie-library/collections/bible.txt
+https://leojonathanoh.github.io/typie-library/collections/keyboard-qwerty.txt
