@@ -1,0 +1,3 @@
+https://leojonathanoh.github.io/typie-library/entities/keyboard-qwerty-letters.txt
+https://leojonathanoh.github.io/typie-library/entities/keyboard-qwerty-numbers.txt
+https://leojonathanoh.github.io/typie-library/entities/keyboard-qwerty-symbols.txt
