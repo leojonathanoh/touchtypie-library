@@ -14,9 +14,9 @@
 | [https://leojonathanoh.github.io/typie-library/collections/bible-YLT.txt](https://leojonathanoh.github.io/typie-library/collections/bible-YLT.txt) |
 | [https://leojonathanoh.github.io/typie-library/collections/keyboard-qwerty.txt](https://leojonathanoh.github.io/typie-library/collections/keyboard-qwerty.txt) |
 
-| Entities | 
+| Books | 
 |---|
-| [https://leojonathanoh.github.io/typie-library/entities/keyboard-qwerty-letters.txt](https://leojonathanoh.github.io/typie-library/entities/keyboard-qwerty-letters.txt) |
-| [https://leojonathanoh.github.io/typie-library/entities/keyboard-qwerty-numbers.txt](https://leojonathanoh.github.io/typie-library/entities/keyboard-qwerty-numbers.txt) |
-| [https://leojonathanoh.github.io/typie-library/entities/keyboard-qwerty-symbols.txt](https://leojonathanoh.github.io/typie-library/entities/keyboard-qwerty-symbols.txt) |
+| [https://leojonathanoh.github.io/typie-library/books/keyboard-qwerty-letters.txt](https://leojonathanoh.github.io/typie-library/books/keyboard-qwerty-letters.txt) |
+| [https://leojonathanoh.github.io/typie-library/books/keyboard-qwerty-numbers.txt](https://leojonathanoh.github.io/typie-library/books/keyboard-qwerty-numbers.txt) |
+| [https://leojonathanoh.github.io/typie-library/books/keyboard-qwerty-symbols.txt](https://leojonathanoh.github.io/typie-library/books/keyboard-qwerty-symbols.txt) |
 
