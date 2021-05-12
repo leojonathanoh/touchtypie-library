@@ -37,10 +37,10 @@ $MD_TABLE_CONTENT
 EOF
 
 
-MD_TABLE_TITLE='| Entities | '
+MD_TABLE_TITLE='| Books | '
 MD_TABLE_ALIGNER='|---|'
 MD_TABLE_CONTENT=$(
-    find entities/ -type f | sort -h | while read -r l; do
+    find books/ -type f | sort -h | while read -r l; do
         link="https://leojonathanoh.github.io/typie-library/$l"
         echo "| [$link]($link) |";
     done
