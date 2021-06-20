@@ -11,6 +11,9 @@
 | [https://leojonathanoh.github.io/typie-library/collections/bible-KJV.txt](https://leojonathanoh.github.io/typie-library/collections/bible-KJV.txt) |
 | [https://leojonathanoh.github.io/typie-library/collections/bible.txt](https://leojonathanoh.github.io/typie-library/collections/bible.txt) |
 | [https://leojonathanoh.github.io/typie-library/collections/bible-WEB.txt](https://leojonathanoh.github.io/typie-library/collections/bible-WEB.txt) |
+| [https://leojonathanoh.github.io/typie-library/collections/bible-YLT-proverbs.txt](https://leojonathanoh.github.io/typie-library/collections/bible-YLT-proverbs.txt) |
+| [https://leojonathanoh.github.io/typie-library/collections/bible-YLT-psalms.txt](https://leojonathanoh.github.io/typie-library/collections/bible-YLT-psalms.txt) |
+| [https://leojonathanoh.github.io/typie-library/collections/bible-YLT-songofsongs.txt](https://leojonathanoh.github.io/typie-library/collections/bible-YLT-songofsongs.txt) |
 | [https://leojonathanoh.github.io/typie-library/collections/bible-YLT.txt](https://leojonathanoh.github.io/typie-library/collections/bible-YLT.txt) |
 | [https://leojonathanoh.github.io/typie-library/collections/keyboard-qwerty.txt](https://leojonathanoh.github.io/typie-library/collections/keyboard-qwerty.txt) |
 
