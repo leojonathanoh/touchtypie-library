@@ -1,2 +1,3 @@
-https://leojonathanoh.github.io/touchtypie-library/collections/bibles.txt
-https://leojonathanoh.github.io/touchtypie-library/collections/keyboard-qwerty.txt
+https://leojonathanoh.github.io/touchtypie-library/collections/bible-YLT-proverbs.txt
+https://leojonathanoh.github.io/touchtypie-library/collections/bible-YLT-psalms.txt
+https://leojonathanoh.github.io/touchtypie-library/collections/bible-YLT-songofsongs.txt
