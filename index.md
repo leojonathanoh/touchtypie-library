@@ -1,7 +1,6 @@
 | Libraries | 
 |---|
 | [https://leojonathanoh.github.io/touchtypie-library/libraries/bible.txt](https://leojonathanoh.github.io/touchtypie-library/libraries/bible.txt) |
-| [https://leojonathanoh.github.io/touchtypie-library/libraries/bible-YLT.txt](https://leojonathanoh.github.io/touchtypie-library/libraries/bible-YLT.txt) |
 | [https://leojonathanoh.github.io/touchtypie-library/libraries/daily.txt](https://leojonathanoh.github.io/touchtypie-library/libraries/daily.txt) |
 
 | Collections | 
@@ -9,7 +8,6 @@
 | [https://leojonathanoh.github.io/touchtypie-library/collections/bible-ASV.txt](https://leojonathanoh.github.io/touchtypie-library/collections/bible-ASV.txt) |
 | [https://leojonathanoh.github.io/touchtypie-library/collections/bible-BBE.txt](https://leojonathanoh.github.io/touchtypie-library/collections/bible-BBE.txt) |
 | [https://leojonathanoh.github.io/touchtypie-library/collections/bible-KJV.txt](https://leojonathanoh.github.io/touchtypie-library/collections/bible-KJV.txt) |
-| [https://leojonathanoh.github.io/touchtypie-library/collections/bible.txt](https://leojonathanoh.github.io/touchtypie-library/collections/bible.txt) |
 | [https://leojonathanoh.github.io/touchtypie-library/collections/bible-WEB.txt](https://leojonathanoh.github.io/touchtypie-library/collections/bible-WEB.txt) |
 | [https://leojonathanoh.github.io/touchtypie-library/collections/bible-YLT-proverbs.txt](https://leojonathanoh.github.io/touchtypie-library/collections/bible-YLT-proverbs.txt) |
 | [https://leojonathanoh.github.io/touchtypie-library/collections/bible-YLT-psalms.txt](https://leojonathanoh.github.io/touchtypie-library/collections/bible-YLT-psalms.txt) |
