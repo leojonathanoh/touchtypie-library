@@ -1,6 +1,6 @@
 | Libraries | 
 |---|
-| [https://leojonathanoh.github.io/touchtypie-library/libraries/bible.txt](https://leojonathanoh.github.io/touchtypie-library/libraries/bible.txt) |
+| [https://leojonathanoh.github.io/touchtypie-library/libraries/bibles.txt](https://leojonathanoh.github.io/touchtypie-library/libraries/bibles.txt) |
 | [https://leojonathanoh.github.io/touchtypie-library/libraries/daily.txt](https://leojonathanoh.github.io/touchtypie-library/libraries/daily.txt) |
 
 | Collections | 
