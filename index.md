@@ -341,7 +341,7 @@
 | [https://leojonathanoh.github.io/touchtypie-library/collections/bible-YLT.txt](https://leojonathanoh.github.io/touchtypie-library/collections/bible-YLT.txt) | [Play now](https://play.touchtypie.com?book_collection_ids=https://leojonathanoh.github.io/touchtypie-library/collections/bible-YLT.txt) |
 | [https://leojonathanoh.github.io/touchtypie-library/collections/bible-YLT-zechariah.txt](https://leojonathanoh.github.io/touchtypie-library/collections/bible-YLT-zechariah.txt) | [Play now](https://play.touchtypie.com?book_collection_ids=https://leojonathanoh.github.io/touchtypie-library/collections/bible-YLT-zechariah.txt) |
 | [https://leojonathanoh.github.io/touchtypie-library/collections/bible-YLT-zephaniah.txt](https://leojonathanoh.github.io/touchtypie-library/collections/bible-YLT-zephaniah.txt) | [Play now](https://play.touchtypie.com?book_collection_ids=https://leojonathanoh.github.io/touchtypie-library/collections/bible-YLT-zephaniah.txt) |
-| [https://leojonathanoh.github.io/touchtypie-library/collections/keyboard-qwerty.txt](https://leojonathanoh.github.io/touchtypie-library/collections/keyboard-qwerty.txt) | [Play now](https://play.touchtypie.com?book_collection_ids=https://leojonathanoh.github.io/touchtypie-library/collections/keyboard-qwerty.txt) |r
+| [https://leojonathanoh.github.io/touchtypie-library/collections/keyboard-qwerty.txt](https://leojonathanoh.github.io/touchtypie-library/collections/keyboard-qwerty.txt) | [Play now](https://play.touchtypie.com?book_collection_ids=https://leojonathanoh.github.io/touchtypie-library/collections/keyboard-qwerty.txt) |
 
 
 | Books | Practice | 
