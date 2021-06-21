@@ -2,12 +2,14 @@
 
 set -eu
 
-BIBLE_CHAPTERS=$( curl -sL https://leojonathanoh.github.io/bible_databases/links/links-chapters.txt )
+# Create collection(s): bible-<translation>.txt
+BIBLES_CHAPTERS=$( curl -sL https://leojonathanoh.github.io/bible_databases/links/links-chapters.txt )
 for i in ASV BBE KJV WEB YLT; do
     echo "Creating collections/bible-$i.txt"
-    echo "$BIBLE_CHAPTERS" | grep "$i" > "collections/bible-$i.txt";
+    echo "$BIBLES_CHAPTERS" | grep "$i" > "collections/bible-$i.txt";
 done
 
+# Create collection(s): bible-<translation>-<book>.txt
 BIBLE_BOOKS=$( cat - <<'EOF'
 Genesis
 Exodus
@@ -82,6 +84,6 @@ for i in ASV BBE KJV WEB YLT; do
     echo "$BIBLE_BOOKS" | while read -r b; do
         FILE="bible-$i-$( echo "$b" | sed 's/\s/-/g' | tr '[:upper:]' '[:lower:]' ).txt"
         echo "Creating collections/$FILE"
-        echo "$BIBLE_CHAPTERS" | grep "$i" | grep "$( echo "$b" | sed 's/\s/%20/g' )" > "collections/$FILE";
+        echo "$BIBLES_CHAPTERS" | grep "$i" | grep "$( echo "$b" | sed 's/\s/%20/g' )" > "collections/$FILE";
     done
 done
