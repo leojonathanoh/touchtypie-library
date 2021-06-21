@@ -1,2 +1,2 @@
-https://leojonathanoh.github.io/touchtypie-library/collections/bible.txt
+https://leojonathanoh.github.io/touchtypie-library/collections/bibles.txt
 https://leojonathanoh.github.io/touchtypie-library/collections/keyboard-qwerty.txt
